@@ -3,7 +3,9 @@
 
 ![](https://i.imgur.com/ArKO9Eq.png)
 
-- [x] İçine vereceğim kodu yazın.
+- [x] **İçine vereceğim kodu yazın.**
 ```console
 cd node_modules/discord.js/src/client
 ```
+
+![](https://i.imgur.com/x9KMhlg.png)
