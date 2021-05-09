@@ -1,3 +1,4 @@
+## Lütfen Adımı Geçirmeden Paylaşmayın!
 ## Glitch/Linux Stage Channel Sorunu
 - [x] **Terminali açın.**
 
