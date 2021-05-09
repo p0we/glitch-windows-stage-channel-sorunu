@@ -15,4 +15,4 @@ cd node_modules/discord.js/src/client
 rm -rf ClientDataManager.js
 ```
 
-![](https://i.imgur.com/p9Q8yfC.png)
+![](https://i.imgur.com/4bxhDIY.png)
