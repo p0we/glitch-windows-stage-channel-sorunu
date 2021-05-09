@@ -29,3 +29,12 @@ wget -F https://download1647.mediafire.com/q18h3z0mjlpg/3jt014hwi9hhi2s/ClientDa
 ![](https://i.imgur.com/7QcyQbR.png)
 
 ## Windows Stage Chanel Sorunu
+
+- [x] Botun klasörüne gidelim.
+- [x] ``node_modules`` adındaki klasörü bulalım.
+- [x] ``discord.js`` adındaki klasörü bulalım.
+- [x] ``src`` adındaki klasörü bulalım.
+- [x]  ``client`` adındaki klasörü bulalım.
+- [x]  ``ClientDataManager.js`` adındaki dosyayı silelim.
+- [x]  [Buraya](https://www.mediafire.com/file/3jt014hwi9hhi2s/ClientDataManager.js/file) tıklayıp bu dosyayı indirelim ([Virus total sonucu](https://www.virustotal.com/gui/file/88422763162b7f22958bfe2da1fdea78660f0da08479be06e8d335231395843d/detection))
+- [x]  Şimdi bu dosyayı ``node_modules`` içindeki ``discord.js`` adındaki dosyanın içindeki ``src`` içindeki ``client`` içindeki yere atalım.
