@@ -1,3 +1,3 @@
-<h3>Glitch Stage Channel Sorunu</h3>
+## Glitch Stage Channel Sorunu
 <hr/>
 **guild.channels.set(channel.id, channel)**
