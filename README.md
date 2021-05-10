@@ -20,7 +20,7 @@ rm -rf ClientDataManager.js
 - - -
 - [x] **Şimdiyse sorunsuz ClientDataManager.js kodumuzu indirelim. (``-F`` kodun htmlye dönüşmesini önler)**
 ```console
-wget -F https://download1647.mediafire.com/q18h3z0mjlpg/3jt014hwi9hhi2s/ClientDataManager.js
+wget -F http://download1647.mediafire.com/y7q1dsisbalg/3jt014hwi9hhi2s/ClientDataManager.js
 ```
 
 ![](https://i.imgur.com/53gFWdw.png)
@@ -37,5 +37,5 @@ wget -F https://download1647.mediafire.com/q18h3z0mjlpg/3jt014hwi9hhi2s/ClientDa
 - [x] ``src`` adındaki klasörü bulalım.
 - [x]  ``client`` adındaki klasörü bulalım.
 - [x]  ``ClientDataManager.js`` adındaki dosyayı silelim.
-- [x]  [Buraya](https://www.mediafire.com/file/3jt014hwi9hhi2s/ClientDataManager.js/file) tıklayıp bu dosyayı indirelim ([Virus total sonucu](https://www.virustotal.com/gui/file/88422763162b7f22958bfe2da1fdea78660f0da08479be06e8d335231395843d/detection))
+- [x]  [Buraya](http://download1647.mediafire.com/y7q1dsisbalg/3jt014hwi9hhi2s/ClientDataManager.js) tıklayıp bu dosyayı indirelim ([Virus total sonucu](https://www.virustotal.com/gui/file/88422763162b7f22958bfe2da1fdea78660f0da08479be06e8d335231395843d/detection))
 - [x]  Şimdi bu dosyayı ``node_modules`` içindeki ``discord.js`` adındaki dosyanın içindeki ``src`` içindeki ``client`` içindeki yere atalım.
