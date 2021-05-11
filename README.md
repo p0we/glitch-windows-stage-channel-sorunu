@@ -20,7 +20,7 @@ rm -rf ClientDataManager.js
 - - -
 - [x] **Şimdiyse sorunsuz ClientDataManager.js kodumuzu indirelim. (``-F`` kodun htmlye dönüşmesini önler)**
 ```console
-wget -F http://download1647.mediafire.com/y7q1dsisbalg/3jt014hwi9hhi2s/ClientDataManager.js
+wget -F -O ClientDataManager.js https://dl4.lim1.dosyaupload.com/gxcY?download_token=6a603e849f25254c5484af6e20af0964f8bfdbf7a42c0391c71130a47485c8d5
 ```
 
 ![](https://i.imgur.com/53gFWdw.png)
